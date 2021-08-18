@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiotrKubiak
-- 👀 I’m interested in FontEnd
+- 👀 I’m interested in FrontEnd
 - 🌱 I’m currently learning javascript REACT
 - 💞️ I want to cooperate with a company that will teach me something more
 - 📫 How to reach me: kuberxxx1986@gmail.com
